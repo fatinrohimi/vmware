@@ -2,7 +2,7 @@
 import java.net.*; 
 import java.io.*; 
   
-class Server 
+public class Server 
 { 
     //initialize socket and input stream 
     private Socket          socket   = null; 
